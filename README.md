@@ -7,8 +7,9 @@ This project predicts **regional mobile internet speeds in India** using **trans
 
 The dataset is sourced from [data.gov.in](https://www.data.gov.in/resource/month-wise-all-india-crowdsourced-mobile-data-speed-measurement), containing **crowdsourced mobile internet speed test records**.  
 
----
 
+---
+Direct Link to download merged ds --> https://filebin.net/09a1qqjd09ogudcu
 ##  Project Structure  
 
 ```text
